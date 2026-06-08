@@ -95,15 +95,6 @@ jupyter notebook Food-101.ipynb
 
 **Model Performance**: Achieves up to 70% accuracy on the Food-101 test dataset with the basic EfficientNetB7 architecture.
 
-## Files
-
-- `food-101.py` - Main training and evaluation script
-- `Food-101.ipynb` - Jupyter notebook for experimentation
-- `extract_images.py` - Script to extract images from the notebook
-- `notebook_images/` - Extracted visualizations and plots from the notebook
-- `requirements.txt` - Python dependencies
-- `README.md` - Project documentation
-
 ## References
 
 - **Food-101 Dataset**: [Learning a Deep Convolutional Network for Image Classification](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
